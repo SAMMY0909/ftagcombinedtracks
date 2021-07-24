@@ -30,6 +30,8 @@ cd ..
 rm -rf ftag_combinedtracks
 \cp -r setuppatch/athena .
 \cp -r combinedpatch/athena . 
-\cp -r combinedpatch/scripts . 
+\cp -r combinedpatch/scripts .
+rm -rf setuppatch
+rm -rf combinedpatch 
 source scripts/setup.sh
 ```
