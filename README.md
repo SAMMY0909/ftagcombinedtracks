@@ -2,7 +2,7 @@ Authors: Alexander Khanov, Soumyananda Goswami
 with inputs from the CERN ATLAS Codebase, GitLab ATLAS Software Tutorials (https://atlassoftwaredocs.web.cern.ch/ABtutorial/),xAOD mini Derivation Tutorials (https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/XAODMiniTutorialDerivations) and members of the Flavour Algorithms group
 
 To setup the package, carry out these commands in succession.
-Copying jobOptions.py in Ln#24 of this file is only for viewing (not running athena jobs) the glob.glob input to inputfiles in jobOptions.py also commonly called JO in short. Only works for Release 22 stuff.
+Copying jobOptions.py mentioned in this file is only for viewing the glob.glob input to inputfiles (not running athena jobs) in jobOptions.py also commonly called JO in short. Only works for Release 22 stuff.
 ```
 setupATLAS --quiet
 lsetup git
