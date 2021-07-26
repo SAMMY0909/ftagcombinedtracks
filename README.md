@@ -24,7 +24,6 @@ cd ftag_combinedtracks
 \cp -r scripts ../
 \cp -r setuppatch ../
 \cp -r combinedpatch ../
-\cp -r jobOptions.py ../
 
 cd ..
 rm -rf ftag_combinedtracks
